@@ -3,7 +3,6 @@
 <section class="content">
 
 	<?php if(has_posts()): ?>
-		<?php posts(); ?>
 		<article class="wrap">
 			<img src="<?php echo theme_url('/img/how-my-brain-works.png'); ?>">
 			<p class="intro">This blog is some of my random taughts and opinions on the world. Here are some things I have in my head...</p>
