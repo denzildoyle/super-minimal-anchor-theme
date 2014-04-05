@@ -5,7 +5,7 @@ A super minimal theme for anchor CMS
 
 ![Responsive.](http://blog.denzildoyle.me/macbook-pro-flat.png)
 
-**Why Write?**
+### What you get
 
 * Clean & minimal.
 * Responsive.
@@ -23,3 +23,10 @@ A super minimal theme for anchor CMS
 
 * Email Me [doyle.d@hotmail.com](mailto:doyle.d@hotmail.com).
 * Go to Twitter and [follow me](http://twitter.com/denzildoyle).
+
+
+### DO LIST
+
+* Fix while loop post page
+* Add functionality to change image in admin interface for post page 
+* 
