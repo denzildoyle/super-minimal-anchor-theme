@@ -1,0 +1,5 @@
+Theme name:    Super Minimal
+Description:   A shiny super minimal theme for Anchor CMS.
+Author name:   Apsolute - Denzil Doyle
+Author site:   http://www.apsolute-tt.com
+License:       http://www.apsolute-tt.com/license.hmtl
