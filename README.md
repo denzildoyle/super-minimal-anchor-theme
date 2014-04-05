@@ -9,7 +9,7 @@ A super minimal theme for anchor CMS
 
 * Clean & minimal.
 * Responsive.
-* See a demo here [blog.denzildoyle.me](blog.denzildoyle.me)
+* See a demo here [blog.denzildoyle.me](https;//blog.denzildoyle.me)
 
 ### How install
 
