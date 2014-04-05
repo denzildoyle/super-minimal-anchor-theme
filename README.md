@@ -1,4 +1,4 @@
-super-minimal-anchor-theme
+Super minimal
 ==========================
 
 A super minimal theme for anchor CMS 
