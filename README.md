@@ -3,14 +3,13 @@ super-minimal-anchor-theme
 
 A super minimal theme for anchor CMS 
 
-![Responsive.](http://f.cl.ly/items/150h2b2M3m363Y0Q2D3A/preview.png)
+![Responsive.](http://blog.denzildoyle.me/macbook-pro-flat.png)
 
 **Why Write?**
 
 * Clean & minimal.
 * Responsive.
-
-[Demo? Here.]()
+* See a demo here [blog.denzildoyle.me](blog.denzildoyle.me)
 
 ### How install
 
@@ -21,4 +20,4 @@ A super minimal theme for anchor CMS
 
 ### Help & Support
 Email Me [doyle.d@hotmail.com](mailto:doyle.d@hotmail.com).
-Go to Twitter and [follow me](http://twitter.com/kostyakozak).
+Go to Twitter and [follow me](http://twitter.com/denzildoyle).
