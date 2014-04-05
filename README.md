@@ -27,6 +27,4 @@ A super minimal theme for anchor CMS
 
 ### DO LIST
 
-* Fix while loop post page
 * Add functionality to change image in admin interface for post page 
-* 
