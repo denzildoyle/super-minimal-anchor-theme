@@ -28,7 +28,25 @@
                     window.location.hash = target;
                 });
             });
+
+            $('p').mouseup(function (e){
+                if (getSelectionText() != ""){
+                    e.preventDefault();
+                    window.open( "http://twitter.com/share?text=" + getSelectionText() + "&via=denzildoyle", 'twitter-share', 'width=550,height=235');   
+                }
+                //TO DO: If the number of chars crosses 140 dont show twitter
+            });
         });
+
+        function getSelectionText() {
+            var text = "";
+            if (window.getSelection) {
+                text = window.getSelection().toString();
+            } else if (document.selection && document.selection.type != "Control") {
+                text = document.selection.createRange().text;
+            }
+            return text;
+        }
 	</script>
     </body>
 </html>

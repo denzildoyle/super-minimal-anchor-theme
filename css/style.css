@@ -18,6 +18,11 @@ h3 a:hover{
 	font-family: 'Domine', serif;
 }
 
+.read-time span{
+	margin-right: 10px;
+	color: #ccc;
+}
+
 .accent-color{
 	color: #71a737;
 }
@@ -265,7 +270,7 @@ h1 {
 	padding-bottom: 50px;
 }
 .content article{
-	padding-top: 100px;
+	padding-top: 50px;
 }
 	.content.wrap ul, .content.wrap ol, .items li ul {
 		padding: 20px 30px;

@@ -3,7 +3,6 @@
 		<section class="content wrap"  id="article-<?php echo article_id(); ?>" >
 			
 			<article>
-				<p><?php echo ceil(count_words(article_markdown()) / 33); ?> Min Read</p>
 				<?php echo article_markdown(); ?>
 			</article>
 
