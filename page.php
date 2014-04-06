@@ -1,8 +1,10 @@
 <?php theme_include('header-two'); ?>
 
-		<div class="row">
-			<div class="col-md-5 col-md-offset-1">			
-				<h1><?php echo page_title(); ?></h1>
-				<?php echo page_content(); ?>
-			</div>
-		</div>
+<section class="content">
+		<article class="wrap">
+			<h1><?php echo page_title(); ?> <a href="<?php echo base_url() ?>posts">Skip this crap</a></h1>
+			<?php echo page_content(); ?>
+		</article>
+</section>
+
+<?php theme_include('footer'); ?>

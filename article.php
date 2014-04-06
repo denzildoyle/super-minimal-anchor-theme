@@ -7,9 +7,9 @@
 				<?php echo article_markdown(); ?>
 			</article>
 
-			<section class="footnote">
+<!-- 			<section class="footnote">
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-			</section>
+			</section> -->
 		</section>
 
 		<?php if(comments_open()): ?>

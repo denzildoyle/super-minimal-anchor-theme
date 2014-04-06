@@ -46,6 +46,6 @@
 				<div class="container">
 					<h1><?php echo article_title(); ?></h1>
 					<p> Posted <time datetime="<?php echo date(DATE_W3C, article_time()); ?>"><?php echo relative_time(article_time()); ?></time> by <?php echo article_author('real_name'); ?>.</p>
-					<a href="#article-<?php echo article_id(); ?>">read</a><span class="diamond">⋅</span><a href="http://localhost/anchorblog/" title="Return to my website.">home</a>
+					<a href="#article-<?php echo article_id(); ?>">read</a><span class="diamond">⋅</span><a href="<?php echo base_url() ?>posts" title="Return to my website.">home</a>
 				</div>
 			</header>

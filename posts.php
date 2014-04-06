@@ -5,7 +5,7 @@
 	<?php if(has_posts()): ?>
 		<article class="wrap">
 			<img src="<?php echo theme_url('/img/how-my-brain-works.png'); ?>">
-			<p class="intro">This blog is some of my random taughts and opinions on the world. Here are some things I have in my head...</p>
+			<p class="intro"><?php echo page_content(); ?></p>
 			<?php $i = 0; while(posts()): $i++; ?>
 				<h4><a href="<?php echo article_url(); ?>" title="<?php echo article_title(); ?>"><?php echo article_title(); ?></a></h>
 			<?php endwhile; ?>
