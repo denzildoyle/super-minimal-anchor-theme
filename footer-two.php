@@ -5,7 +5,11 @@
 
 		                <ul role="navigation">
 		                    <?php if(site_meta('twitter_account')): ?>
-		                    <li><a href="https://twitter.com/<?php echo site_meta('twitter_account'); ?>">@<?php echo site_meta('twitter_account'); ?></a></li>
+			                    <li><a href="https://twitter.com/<?php echo site_meta('twitter_account'); ?>">@<?php echo site_meta('twitter_account'); ?></a></li>
+		                    <?php endif; ?>
+
+		                  	<?php if(site_meta('instagram_account')): ?>
+			                    <li><a href="https://instagram.com/<?php echo site_meta('instagram_account'); ?>" alt="instagram account">instagram</a></li>
 		                    <?php endif; ?>
 
 		                    <li><a href="/" title="Return to my website.">Home</a></li>
